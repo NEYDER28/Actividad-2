@@ -27,14 +27,14 @@ Este proyecto es una página web dedicada a la biodiversidad en las regiones de 
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd Actividad 2
+    cd Actividad-2
     ```
 3. Abre el archivo `index.html` en tu navegador preferido.
 
 ## Estructura del Proyecto
 
 ```plaintext
-Actividad 2/
+Actividad-2/
 ├── index.html
 ├── page2.html
 ├── img/

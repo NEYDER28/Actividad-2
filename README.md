@@ -23,18 +23,18 @@ Este proyecto es una página web dedicada a la biodiversidad en las regiones de 
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tuusuario/pagina-de-biodiversidad.git
+    git clone https://github.com/NEYDER28/Actividad-2.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd pagina-de-biodiversidad
+    cd Actividad 2
     ```
 3. Abre el archivo `index.html` en tu navegador preferido.
 
 ## Estructura del Proyecto
 
 ```plaintext
-pagina-de-biodiversidad/
+Actividad 2/
 ├── index.html
 ├── page2.html
 ├── img/
